@@ -1,0 +1,8 @@
+Hi There,
+I am creating new file linux command.
+1] whoami
+2] cd /
+3] ls -l
+4] mkdir dirname
+5] cd dirname/
+6] pwd
