@@ -6,3 +6,4 @@ I am creating new file linux command.
 4] mkdir dirname
 5] cd dirname/
 6] pwd
+7] cp filename dirpath: cp test.txt NewDir
