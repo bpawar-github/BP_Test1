@@ -1,3 +1,9 @@
 sudo su -
 yum install git
 git --version
+pwd -present working dir
+mkdir project1
+cd project1/
+cd .. 
+la -l or la -la
+git init -initialize git to trace changes.
